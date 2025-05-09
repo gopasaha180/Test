@@ -1,5 +1,7 @@
-streamlit==1.11.0
-pandas==1.3.3
-scikit-learn==0.24.2
-yfinance==0.1.64
-joblib==1.1.0
+pip install streamlit
+pip install matplotlib
+pip install keras
+pip install tensorflow
+pip install flask
+pip install yfinance
+pip install scikit-learn
